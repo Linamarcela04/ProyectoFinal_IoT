@@ -74,7 +74,7 @@ void reconnect() {
     // Attempt to connect
     if (client.connect(clientId.c_str())) {
       Serial.println("connected");
-      client.publish("outTopic");
+      client.publish("outTopic", "hello word");
       client.subscribe("inTopic");
     } else {
       Serial.print("failed, rc=");

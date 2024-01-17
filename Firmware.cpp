@@ -3,8 +3,7 @@
 *  Firmware final del proyecto del curso Diseño de Dispositivos IoT *
 *                                                                   *
 *  Por:                                                             *  
-*  - Lina Marcela García Palacio                                    *
-*  - Juan Pablo Osuna Bonilla                                       *
+*  - Lina Marcela García Palacio                                    *                                     *
 ********************************************************************/
 
 
